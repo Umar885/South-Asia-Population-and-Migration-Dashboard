@@ -2,6 +2,9 @@
 
 ## Overview
 Welcome to the **South Asia Population and Migration Dashboard**! This project is a dynamic web application that visualizes population and migration data for South Asian countries using real-time data fetched from the **World Bank API**.
+## 🔗 Explore My Profiles
+- [Kaggle Profile](https://www.kaggle.com/umarmehmood)
+- [LinkedIn Profile](https://www.linkedin.com/in/umar-mehmood-147224294/)
 
 The app is built using **Python** and the **Dash** library, providing interactive visualizations to explore trends over the years.
 
@@ -28,7 +31,5 @@ Make sure you have Python 3.x installed. You will also need to install the requi
 pip install dash pandas plotly requests
 
 
-### Key Updates:
-- Added **LinkedIn** and **Kaggle** links in the "Links" section.
 
 
